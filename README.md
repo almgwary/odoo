@@ -3,6 +3,17 @@
 [![Help](http://img.shields.io/badge/11.0-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](http://img.shields.io/badge/11.0-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](http://nightly.odoo.com/)
 
+
+
+
+You can use and distribute LGPL libraries on your website and use them in combination with commercial code. The only big restriction is that you must keep the library open source, including any modifications you make to it, and allow your users to obtain the source, licence and copyright information for the library.
+
+You don't have to distribute your commercial code under the LGPL.
+
+This is different to the GPL where you would have to distribute your code under the GPL too.
+
+
+
 Odoo
 ----
 
